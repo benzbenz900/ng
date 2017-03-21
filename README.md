@@ -13,9 +13,9 @@
 #### ∆ ยังไม่ได้เพิ่ม
 #### >> อัพเดจใหม่
 ---
->> เพิ่ม DB ในส่วนของ PPT สไลต์ 11-13 CMS ส่วนของ คณะผู้บริหาร
+เพิ่ม DB ในส่วนของ PPT สไลต์ 11-13 CMS ส่วนของ คณะผู้บริหาร
 
-	- Foundation Board √
+- Foundation Board √
 		- president
 		- president_en
 		- vicepresident
