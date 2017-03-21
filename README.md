@@ -4,7 +4,7 @@
 
 ---
 #### ค้างทำ หลักๆ
-	- เอาข้อมูลในหน้าตั้งค่า  title,title_en,description,description_en,keyword,keyword_en มาใส่หน้าเว็บ ∆
+	- เอาข้อมูลในหน้าตั้งค่า  title,title_en,description,description_en,keyword,keyword_en มาใส่หน้าเว็บ √ >>
 
 ---
 
@@ -12,7 +12,7 @@
 #### ∆ ยังไม่ได้เพิ่ม
 #### >> อัพเดจใหม่
 ---
-เพิ่ม DB ในส่วนของ PPT สไลต์ 11-13 CMS ส่วนของ คณะผู้บริหาร √
+เพิ่ม DB ในส่วนของ PPT สไลต์ 11-13 CMS ส่วนของ คณะผู้บริหาร √ >>
 
 - Foundation Board √
 - เปลี่ยนเป็น CSS HTML และเพิ่มระบบแก้ไข จาก CMS เรียบร้อย √
