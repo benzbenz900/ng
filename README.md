@@ -26,7 +26,7 @@
 
 - Home Banner àวน Loop 5 วิ และหากต้องการปรับspeed สามารถ set หลังบ้านได้เอง
 
-^ เพิ่มตัวตั้งค่าในหน้า ตั้งค่าเว็บ ∆
+^ เพิ่มตัวตั้งค่าในหน้า ตั้งค่าเว็บ √
 
 	- ถูกเพิ่มในหน้าตั้งค่าเว็บ
 
@@ -34,23 +34,18 @@
 
 - เพิ่ม DB ตั้งค่าเว็บ ในส่วนของ CMS เพื่อให้ลูกค้าแก้ไขข้อมูลได้เอง (ยังไม่ได้เชื่อม กับหน้าเว็บ มีแค่หลังบ้าน)
  
- 		- title ชื่อเว็บไทย ∆
-		- title_en ชื่อเว็บ ENG ∆
-		- loop_banner ปรับ Speed Banner ∆
-		- logo ∆
-		- logo_en ∆
-		- description รายละเอียดเว็บ ∆
-		- description_en รายละเอียดเว็บ ENG ∆
-		- keyword คำค้นหา ∆
-		- keyword_en คำค้นหา ENG ∆
-		- bookbank_acc บัญชีธนาคาร ∆
-		- bookbank_number เลขบัญชี ∆
-		- bookbank_branch สาขา ∆
-		- bookbank_type ประเภทบัญชี ∆
-		- boobank_bankname ชื่อธนาคาร ∆
-		- address ที่อยู่ ∆
-		- address_en ที่ยู่ ENG ∆
-		- map แผนที่ ∆
+ 		- title ชื่อเว็บไทย √
+		- title_en ชื่อเว็บ ENG √
+		- loop_banner ปรับ Speed Banner √
+		- logo √
+		- logo_en √
+		- description รายละเอียดเว็บ √
+		- description_en รายละเอียดเว็บ ENG √
+		- keyword คำค้นหา √
+		- keyword_en คำค้นหา ENG √
+		- address ที่อยู่ √
+		- address_en ที่ยู่ ENG √
+		- map แผนที่ √
 
 ---
 
@@ -85,4 +80,5 @@
 	- เพิ่มตัวเลือก ว่าจะแสดงวิดีโอหรือแสดงรูปหรือแสดงทั้งคู่
 
 ---
-- ใน ppt ยังไม่ได้แก้ไข CSS และ HTML ∆
+- ใน ppt ยังไม่ได้แก้ไข CSS และ HTML √
+	- ยังไม่ได้เพิ่มในส่วนของ สไลต์ 11-13
