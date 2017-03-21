@@ -14,15 +14,22 @@
 #### >> อัพเดจใหม่
 ---
 >> เพิ่ม DB ในส่วนของ PPT สไลต์ 11-13 CMS ส่วนของ คณะผู้บริหาร
-- Foundation Board √
-	- president
-	- vicepresident
-	- director
-	- directortreasurer
-	- directorsecretary
-	- image
-	- image_en
-	- president_president
+
+	- Foundation Board √
+		- president
+		- president_en
+		- vicepresident
+		- vicepresident_en
+		- director
+		- director_en
+		- directortreasurer
+		- directortreasurer_en
+		- directorsecretary
+		- directorsecretary_en
+		- image
+		- image_en
+		- president_president
+
  ∆ ยังไม่ได้เชื่อมกับหน้าเว็บ
 ---
 - Home Banner àแยกอัพรูปกับข้อความต้องพิมพ์ข้อความและแก้ไข font size ได้ + มี Preview เพื่อดูว่าจะแสดงผลบหน้าเวบแบบไหนก่อนยืนยัน
