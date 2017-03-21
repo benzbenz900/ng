@@ -4,7 +4,7 @@
 
 ---
 #### ค้างทำ หลักๆ
-	- เอาข้อมูลในหน้าตั้งค่า  title,title_en,description,description_en,keyword,keyword_en มาใส่หน้าเว็บ √ >>
+	- เอาข้อมูลในหน้าตั้งค่า  title,title_en,description,description_en,keyword,keyword_en มาใส่หน้าเว็บ ∆ >>
 
 ---
 
