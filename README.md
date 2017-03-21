@@ -46,6 +46,12 @@
 		- address ที่อยู่ √
 		- address_en ที่ยู่ ENG √
 		- map แผนที่ √
+		- donated ข้อความบริจาคหน้าแรก
+		- donated_en ข้อความบริจาคหน้าแรก ENG
+		- tel_number เบอร์ติดต่อ
+		- fax_number โทรสาร
+		- about เกี่ยวกับ NG
+		- about_en เกี่ยวกับ NG ENG
 
 ---
 
