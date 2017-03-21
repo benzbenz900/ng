@@ -16,19 +16,19 @@
 เพิ่ม DB ในส่วนของ PPT สไลต์ 11-13 CMS ส่วนของ คณะผู้บริหาร
 
 - Foundation Board √
-		- president
-		- president_en
-		- vicepresident
-		- vicepresident_en
-		- director
-		- director_en
-		- directortreasurer
-		- directortreasurer_en
-		- directorsecretary
-		- directorsecretary_en
-		- image
-		- image_en
-		- president_president
+	- president
+	- president_en
+	- vicepresident
+	- vicepresident_en
+	- director
+	- director_en
+	- directortreasurer
+	- directortreasurer_en
+	- directorsecretary
+	- directorsecretary_en
+	- image
+	- image_en
+	- president_president
 
  ∆ ยังไม่ได้เชื่อมกับหน้าเว็บ
 ---
